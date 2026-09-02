@@ -1,1 +1,1 @@
-Check out [devloupe.com](devloupe.com)
+Check out [oaiz.io](oaiz.io)
