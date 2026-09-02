@@ -1,2 +1,2 @@
 # .github
-Public README for DevLoupe
+Public README for OAIZ
